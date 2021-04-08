@@ -13,7 +13,7 @@
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item" aria-current="page">
-                  Paket Travel
+                  Paket Travel Nomads
                 </li>
                 <li class="breadcrumb-item" aria-current="page">
                   Details
